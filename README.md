@@ -3,3 +3,5 @@ Apache Cordova es un framework de desarrollo de aplicaciones móviles que permit
 
 # Estructura del codigo
 Mediante HTML, CSS y JavaScript junto con un archivo JSON para determinar y mostrar el signo zodiacal de una persona según su fecha de nacimiento tienes un formulario donde el usuario ingresa su día y selecciona su mes de nacimiento. Cuando el usuario envía el formulario, el código JavaScript toma los valores ingresados y valida que sean correctos este mostrara  ese signo zodiacal: nombre, imagen del símbolo, imagen de la constelación y una descripción.
+
+<img src="" >
