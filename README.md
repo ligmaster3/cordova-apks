@@ -6,6 +6,4 @@ Mediante HTML, CSS y JavaScript junto con un archivo JSON para determinar y most
 
 <img src="https://github.com/ligmaster3/cordova-apks/blob/main/Screenshot_20241101_003215_apk-zodic.jpg?raw=true" />
 <hr>
-<img scr="https://github.com/ligmaster3/cordova-apks/blob/main/Screenshot_20241101_003326_apk-zodic.jpg?raw=true" />
-<hr>
-<img scr="https://github.com/ligmaster3/cordova-apks/blob/main/Screenshot_20241101_003331_apk-zodic.jpg?raw=true" />
+<img scr="[https://github.com/ligmaster3/cordova-apks/blob/main/Screenshot_20241101_003326_apk-zodic.jpg?raw=true](https://raw.githubusercontent.com/ligmaster3/cordova-apks/refs/heads/main/Screenshot_20241101_003326_apk-zodic.jpg)" />
