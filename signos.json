@@ -1,0 +1,184 @@
+{
+  "signosZodiacales": [
+    {
+      "inicio": {
+        "mes": 3,
+        "dia": 21
+      },
+      "fin": {
+        "mes": 4,
+        "dia": 19
+      },
+      "nombre": "Aries",
+      "imagen": "aries.jpg",
+      "caballero": "Mu de Aries",
+      "constelacion": "https://global-pop-magazine.com/wp-content/uploads/2023/03/CABALLEROS-DEL-ZODIACO-7.jpg",
+      "info": "Aries es un signo de fuego, lleno de energía y entusiasmo. Son líderes naturales, impetuosos y determinados."
+    },
+    {
+      "inicio": {
+        "mes": 4,
+        "dia": 20
+      },
+      "fin": {
+        "mes": 5,
+        "dia": 20
+      },
+      "nombre": "Tauro",
+      "imagen": "tauro.jpg",
+      "caballero": "Aldebarán de Tauro",
+      "constelacion": "https://global-pop-magazine.com/wp-content/uploads/2023/03/CABALLEROS-DEL-ZODIACO-8.jpg",
+      "info": "Tauro es un signo de tierra, conocido por su paciencia, determinación y apreciación por el confort."
+    },
+    {
+      "inicio": {
+        "mes": 5,
+        "dia": 21
+      },
+      "fin": {
+        "mes": 6,
+        "dia": 20
+      },
+      "nombre": "Géminis",
+      "imagen": "geminis.jpg",
+      "caballero": "Saga de Géminis",
+      "constelacion": "https://global-pop-magazine.com/wp-content/uploads/2023/03/CABALLEROS-DEL-ZODIACO-9.jpg",
+      "info": "Géminis es un signo de aire, caracterizado por su dualidad, adaptabilidad y curiosidad intelectual."
+    },
+    {
+      "inicio": {
+        "mes": 6,
+        "dia": 21
+      },
+      "fin": {
+        "mes": 7,
+        "dia": 22
+      },
+      "nombre": "Cáncer",
+      "imagen": "cancer.jpg",
+      "caballero": "Máscara de Muerte de Cáncer",
+      "constelacion": "https://global-pop-magazine.com/wp-content/uploads/2023/03/CABALLEROS-DEL-ZODIACO-10.jpg",
+      "info": "Cáncer es un signo de agua, muy emocional, protector y con fuertes vínculos familiares."
+    },
+    {
+      "inicio": {
+        "mes": 7,
+        "dia": 23
+      },
+      "fin": {
+        "mes": 8,
+        "dia": 22
+      },
+      "nombre": "Leo",
+      "imagen": "leo.jpg",
+      "caballero": "Aioria de Leo",
+      "constelacion": "https://global-pop-magazine.com/wp-content/uploads/2023/03/CABALLEROS-DEL-ZODIACO-11.jpg",
+      "info": "Leo es un signo de fuego, caracterizado por su carisma, creatividad y liderazgo natural."
+    },
+    {
+      "inicio": {
+        "mes": 8,
+        "dia": 23
+      },
+      "fin": {
+        "mes": 9,
+        "dia": 22
+      },
+      "nombre": "Virgo",
+      "imagen": "virgo.jpg",
+      "caballero": "Shaka de Virgo",
+      "constelacion": "https://global-pop-magazine.com/wp-content/uploads/2023/03/CABALLEROS-DEL-ZODIACO-12.jpg",
+      "info": "Virgo es un signo de tierra, conocido por su perfeccionismo, practicidad y atención al detalle."
+    },
+    {
+      "inicio": {
+        "mes": 9,
+        "dia": 23
+      },
+      "fin": {
+        "mes": 10,
+        "dia": 22
+      },
+      "nombre": "Libra",
+      "imagen": "libra.jpg",
+      "caballero": "Dohko de Libra",
+      "constelacion": "https://global-pop-magazine.com/wp-content/uploads/2023/03/CABALLEROS-DEL-ZODIACO-13.jpg",
+      "info": "Libra es un signo de aire, que busca el equilibrio, la armonía y la justicia en todo."
+    },
+    {
+      "inicio": {
+        "mes": 10,
+        "dia": 23
+      },
+      "fin": {
+        "mes": 11,
+        "dia": 21
+      },
+      "nombre": "Escorpio",
+      "imagen": "escorpio.jpg",
+      "caballero": "Milo de Escorpión",
+      "constelacion": "https://global-pop-magazine.com/wp-content/uploads/2023/03/CABALLEROS-DEL-ZODIACO-14.jpg",
+      "info": "Escorpio es un signo de agua, intenso, apasionado y muy perspicaz."
+    },
+    {
+      "inicio": {
+        "mes": 11,
+        "dia": 22
+      },
+      "fin": {
+        "mes": 12,
+        "dia": 21
+      },
+      "nombre": "Sagitario",
+      "imagen": "sagitario.jpg",
+      "caballero": "Seiya de Pegaso",
+      "constelacion": "https://global-pop-magazine.com/wp-content/uploads/2023/03/CABALLEROS-DEL-ZODIACO-15.jpg",
+      "info": "Sagitario es un signo de fuego, aventurero, optimista y amante de la libertad."
+    },
+    {
+      "inicio": {
+        "mes": 12,
+        "dia": 22
+      },
+      "fin": {
+        "mes": 1,
+        "dia": 19
+      },
+      "nombre": "Capricornio",
+      "imagen": "capricornio.jpg",
+      "caballero": "Shura de Capricornio",
+      "constelacion": "https://global-pop-magazine.com/wp-content/uploads/2023/03/CABALLEROS-DEL-ZODIACO-16.jpg",
+      "info": "Capricornio es un signo de tierra, ambicioso, disciplinado y paciente."
+    },
+    {
+      "inicio": {
+        "mes": 1,
+        "dia": 20
+      },
+      "fin": {
+        "mes": 2,
+        "dia": 18
+      },
+      "nombre": "Acuario",
+      "imagen": "acuario.jpg",
+      "caballero": "Camus de Acuario",
+      "constelacion": "https://global-pop-magazine.com/wp-content/uploads/2020/10/CABALLEROS-DEL-ZODIACO-17.jpg",
+      "info": "Acuario es un signo de aire, original, independiente y humanitario."
+    },
+    {
+      "inicio": {
+        "mes": 2,
+        "dia": 19
+      },
+      "fin": {
+        "mes": 3,
+        "dia": 20
+      },
+      "nombre": "Piscis",
+      "imagen": "piscis.jpg",
+      "caballero": "Afrodita de Piscis",
+      "constelacion": "https://global-pop-magazine.com/wp-content/uploads/2020/10/CABALLEROS-DEL-ZODIACO-18.jpg",
+      "info": "Piscis es un signo de agua, intuitivo, sensible y muy compasivo."
+    }
+  ]
+}
